@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Melissa Chikbouni
 
-<!--
-**MelissaChikbouni/Melissachikbouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiante en L3 Informatique** à Sorbonne Université | Future **Master 1 en Data Science** à l'Université Paris-Saclay | Apprentie **Data Scientist** chez **Causeway Technologies** | Passionnée par l'**IA** et la **Cybersécurité**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Expérience Professionnelle
+
+- **2024-Présent** : Apprentie Data Scientist chez **Causeway Technologies**
+  - Collaboration avec l’équipe **Customer Success** pour créer des tableaux de bord sur **Power BI**, **Tableau**, et **Metabase**.
+  - Développement d'algorithmes d'**IA** pour la détection d’anomalies sur les photos des techniciens et analyse des données hébergées sur **AWS**.
+  
+- **2023-2024** : Stagiaire Data Scientist au **Laboratoire d’informatique de Sorbonne Université (LIP6)**
+  - Conception d’un modèle d'**IA** pour évaluer les candidatures sur la plateforme **Mon Master** à l’entrée en première année de master.
+
+### 🛠️ Compétences Techniques
+
+- **Langages** : Python, Java, C, C++, OCaml, PHP, JavaScript, HTML, CSS, Shell/Bash
+- **Bases de données** : SQL, BigQuery
+- **Data Science** : Scikit-learn, Pandas, Jupyter Notebook, Pytorch, Alteryx
+- **Visualisation de données** : Power BI, Tableau, Metabase
+- **Cloud & Web Services** : AWS (S3, Lambda), BigQuery
+- **Gestion de version** : Git, GitLab, Jira
+
+---
+
+### 🌐 Liens
+
+- 📧 **Email** : melissa.chikbouni@gmail.com
+- 🔗 **LinkedIn** : [Melissa Chikbouni](https://www.linkedin.com/in/melissachikbouni)
+
+---
+
+### 🎯 Centres d'intérêt
+
+- **Intelligence Artificielle**
+- Lecture, Photographie, Voyages
+- Volley-ball
