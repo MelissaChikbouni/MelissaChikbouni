@@ -1,6 +1,6 @@
 # 👩‍💻 Melissa Chikbouni
 
-**Étudiante en L3 Informatique** à Sorbonne Université | Future **Master 1 en Data Science** à l'Université Paris-Saclay | Apprentie **Data Scientist** chez **Causeway Technologies** | Passionnée par l'**IA** et la **Cybersécurité**
+**Étudiante en L3 Informatique** à Sorbonne Université | Future **Master 1 en Data Science** à l'Université Paris-Saclay | Apprentie **Data Scientist** chez **Causeway Technologies** | Passionnée par l'**IA**
 
 ---
 
