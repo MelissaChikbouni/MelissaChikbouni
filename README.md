@@ -23,16 +23,22 @@
 - **Gestion de version** : Git, GitLab, Jira
 
 ---
+📜 Certifications
+- Data Analyst Toolbox – Udemy
+Excel, Power BI, Python & Tableau Specialization
+
+- Les fondements de l'intelligence artificielle – LinkedIn Learning
+
+- L’essentiel de PyTorch pour le Deep Learning – LinkedIn Learning
+
+- Comprendre le Web – OpenClassrooms
+
+- Débutez avec les API REST – OpenClassrooms
+ 
+---
+
 
 ### 🌐 Liens
 
 - 📧 **Email** : melissa.chikbouni@gmail.com
 - 🔗 **LinkedIn** : [Melissa Chikbouni](https://www.linkedin.com/in/melissachikbouni)
-
----
-
-### 🎯 Centres d'intérêt
-
-- **Intelligence Artificielle**
-- Lecture, Photographie, Voyages
-- Volley-ball
