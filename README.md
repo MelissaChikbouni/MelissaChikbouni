@@ -1,12 +1,12 @@
 # 👩‍💻 Melissa Chikbouni
 
-**Étudiante en L3 Informatique** à Sorbonne Université | Future **Master 1 en Data Science** à l'Université Paris-Saclay | Apprentie **Data Scientist** chez **Causeway Technologies** | Passionnée par l'**IA**
+**Étudiante en L3 Informatique** à Sorbonne Université | Future étudiante en **Master 1 MIAGE** à l'Université Paris Dauphine | Apprentie **Data Scientist** chez **Orange** | Passionnée par l'**IA**
 
 ---
 
 ### 💼 Expérience Professionnelle
 
-- **2024-Présent** : Apprentie Data Scientist chez **Causeway Technologies**
+- **2024-2025** : Apprentie Data Scientist chez **Causeway Technologies**
   - Collaboration avec l’équipe **Customer Success** pour créer des tableaux de bord sur **Power BI**, **Tableau**, et **Metabase**.
   - Développement d'algorithmes d'**IA** pour la détection d’anomalies sur les photos des techniciens et analyse des données hébergées sur **AWS**.
   
